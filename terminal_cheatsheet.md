@@ -284,10 +284,12 @@ _____
 
  * yellow cross - ✗
  
-  means something in there hasnt been commited
+  This means that something in there hasn't been commited
 
 
- * To quit log: [command ] + q
+ * [command ] + q
+ 
+ These are the buttons you press on your keyboard to quit out of the log (gray box) in the terminal
 
 
 
