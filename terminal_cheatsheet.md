@@ -207,7 +207,14 @@ If we provide a filename in the second path we can rename the copy as we move it
 
 
 __________________________
-### 🔹<u> Command 12 </u>: <b> Pressing command + K </b>
+### 🔸<u> Command 12 </u>: <b> Pressing command + K </b>
+
+This will clear your whole screen
+
+__________________________
+### 🔹<u> Command 13 </u>: <b> Typing clear
+ 
+ This will clean your screen but your information will still be available for viewing if you scroll up 
 
 __________________________
 ### 🔸<u> Command 13 </u>: <b>Pressing the tab button </b>
