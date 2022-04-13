@@ -290,6 +290,9 @@ _____
  * [command ] + q
  
  These are the buttons you press on your keyboard to quit out of the log (gray box) in the terminal
+ 
+ 
+ TO BE CONTINUED...
 
 
 
